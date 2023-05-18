@@ -1,3 +1,5 @@
 # FinalProject
 
-C# Kampında YApılmış bir projedir.
+C# Kampında Yapılmış bir projedir.
+
+Product ve Customer apisi kurularak online alışveriş sistemi simülasyon yapılmıştır.
